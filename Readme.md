@@ -15,7 +15,7 @@
   
 ## Yotube Tutorial If You have any doubts 
   
-  [![Watch Tutorial](https://img.youtube.com/vi/5ox6VPzVSKs/0.jpg)](https://youtu.be/hJ1jQEBgTxs)
+  [![Watch Tutorial](https://i.imgur.com/Walo54k.jpeg)](https://youtu.be/hJ1jQEBgTxs)
 
 
 <div align="left">
@@ -177,15 +177,6 @@ pconly: false, // If that chat not from private bot, bot will ignore
 gconly: false, // If that chat not from group, bot will ignore
 jadibot: false, 
 ```
-
-
-## Developers
-  <div align="center">
-    
-  [![I_AM_DEVIL](https://telegra.ph/file/fb0b36ed9cdcf93b24df7.jpg?size=25)](https://github.com/D-3-V-1-L) |  [![Neeraj](https://telegra.ph/file/74e9659166febabb45aa0.jpg?size=100)](https://github.com/Neeraj-x0) | [![Ajmal-Achu](https://telegra.ph/file/fa920b55caaa8e8be6f04.jpg?size=100)](https://github.com/Ajmal-Achu) 
-----|----|----
-[I_AM_DEVIL](https://github.com/D-3-V-1-L)  | [Neeraj](https://github.com/Neeraj-x0) | [Ajmal-Achu](https://github.com/Ajmal-Achu)
-Base, Bug Fixes, Modules | Bug fixes, Modules | Bug Fixes, Modules
   </div>
                                   
   </div>
@@ -194,6 +185,6 @@ Base, Bug Fixes, Modules | Bug fixes, Modules | Bug Fixes, Modules
   
 ### THANKS TO :
   
-- [Nurutomo](https://github.com/ansantechy) 
+- [Patch ](https://github.com/ansantechy) 
 - [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys)
  
