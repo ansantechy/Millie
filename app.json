@@ -1,8 +1,8 @@
 {
-"name": "Millie",
+"name": "Patch",
   "description": "Lightweight WhatsApp Bot",
-  "repository": "https://github.com/Neeraj-x0/Millie",
-  "logo": "https://i.imgur.com/Pf1Wynm.png",
+  "repository": "https://github.com/ansantechy/Millie",
+  "logo": "https://i.imgur.com/z3MLtGY.jpeg",
   "keywords": ["bot", "whatsapp", "whatsapp-bot"],
 
     "buildpacks": [
