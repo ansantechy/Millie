@@ -2,29 +2,21 @@
 # *Patch Whatsapp Bot*
 <div align="center">
   
-  [![Patch Whatsapp Bot](https://readme-typing-svg.herokuapp.com?font=times-bold-italic&color=%23F7F7F7&duration=4862&center=true&vCenter=true&lines=WELCOME+TO+MILLIE+WHATSAPP+BOT)](https://github.com/ansantechy/Millie)
+  [![Patch Whatsapp Bot](https://readme-typing-svg.herokuapp.com?font=times-bold-italic&color=%23F7F7F7&duration=4862&center=true&vCenter=true&lines=WELCOME+TO+Patch+WHATSAPP+BOT)](https://github.com/ansantechy/Millie)
 </div>
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/z3MLtGY.jpeg" width="200" height="200"/>
 
 <p align="center">
-  <a href="https://instagram.com/neer_j_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/918113921898"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://instagram.com/thepatchig?igshid=YmMyMTA2M2Y="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/16478366666"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 <div align="center">
   
-## JOIN MILLIE WHATSAPP GROUP
-
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png?size=1)](https://chat.whatsapp.com/BcOf8vB5KAlFQhb3c5d06b)
- 
 ## Yotube Tutorial If You have any doubts 
   
-  [![Watch Tutorial](https://img.youtube.com/vi/5ox6VPzVSKs/0.jpg)](https://www.youtube.com/watch?v=5ox6VPzVSKs)
+  [![Watch Tutorial](https://img.youtube.com/vi/5ox6VPzVSKs/0.jpg)](https://youtu.be/hJ1jQEBgTxs)
 
-## `FORK AND CHANGE SETTINGS`
-
-- OWNER NUMBER         [`CLICK HERE`](https://github.com/Neeraj-x0/Millie/blob/main/config.js#L2)
-- SESSION           [`Click Here`](https://github.com/Neeraj-x0/Millie/blob/main/session.data.json#L1)
 
 <div align="left">
 
@@ -43,7 +35,7 @@
 ###### MUST TURN OFF WEB NODE SERVER AND ENABLE WORKER NPM START TO WORK YOUR BOT PROPERLY
 
 <p align="LEFT">
-  <a href="https://github.com/Neeraj-x0/Millie"><img src="https://telegra.ph/file/c38e56370ba19bb784699.jpg" />
+  <a href="https://github.com/ansantechy/Millie"><img src="https://telegra.ph/file/c38e56370ba19bb784699.jpg" />
 </p>
 
   
@@ -55,7 +47,7 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
-git clone https://github.com/Neeraj-x0/Millie
+git clone https://github.com/ansantechy/Millie
 cd Millie
 npm install
 npm update
@@ -83,19 +75,6 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ```
 
 ---------
-
-##### [ INSTALLING NODEJS & MILLIE ]
-
-```bash
-ubuntu
-curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
-apt install -y nodejs gcc g++ make
-git clone https://github.com/Neeraj-x0/Millie
-cd Millie
-npm install
-npm update
-```
-
 ---------
 
 ### FOR WINDOWS/VPS/RDP USER
@@ -105,12 +84,6 @@ npm update
 * Download And Install FFmpeg [`Click Here`](https://ffmpeg.org/download.html) (**Don't Forget Add FFmpeg to PATH enviroment variables**)
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
-```bash
-git clone https://github.com/Neeraj-x0/Millie
-cd Millie
-npm install
-npm update
-```
 
 ---------
 
@@ -221,6 +194,6 @@ Base, Bug Fixes, Modules | Bug fixes, Modules | Bug Fixes, Modules
   
 ### THANKS TO :
   
-- [Nurutomo](https://github.com/Nurutomo) 
+- [Nurutomo](https://github.com/ansantechy) 
 - [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys)
  
